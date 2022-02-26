@@ -28,7 +28,7 @@ It is a MERN stack based project.
 
 
 ## Lessons Learned
-Since, It was my first MERN based project therfore i learned a lot of things during working on it.
+Since, It was my first MERN based project, i learned a lot of things during working on it.
 I faced a lot of bugs and tried to solve that , learned about material-ui, learned how to connet front-end with back-end
 properly, I learned a little bit about socket.io, I also got a chance to revise my react.js knowledge.
 
