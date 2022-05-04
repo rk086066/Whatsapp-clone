@@ -18,6 +18,8 @@ It is a MERN stack based project.
 - Used socket.io for real time chating.
 - Used console cloud platform for google authentication.
 
+## Demo
+- [@Demo video](https://youtu.be/scBK4HCae-Q)
 
 ## Screenshots
 
